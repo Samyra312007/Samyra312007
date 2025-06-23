@@ -57,7 +57,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyra312007&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samyra312007&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samyra312007&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
