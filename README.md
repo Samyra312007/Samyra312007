@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Kumar 👋
 
-🎓 I am Sahil, a BTech 2nd year CSE student at IIIT Kottayam (IIITK).  
+🎓 I am Sahil, a BTech 2nd year CSE student at IIIT Kurnool (IIITK).  
 💡 Passionate about building projects that solve real-world problems.  
 🚀 Always exploring new tools, frameworks, and challenges in tech.  
 🤖 Enthusiast in full-stack development, web automation, web3, appdev and open source.  
@@ -20,14 +20,11 @@
 
 ### 💻 Tech Stack
 
-#### Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-#### Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -37,12 +34,8 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%23ffffff?style=flat&logo=daisyui&logoColor=%236b21a8)
-
-#### Backend:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-#### Tools & Others:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -73,7 +66,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samyra312007&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samyra312007&theme=react-dark" alt="GitHub Activity Graph" />
