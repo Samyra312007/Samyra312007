@@ -53,8 +53,6 @@
 
 ### 📊 GitHub Stats
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyra312007&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyra312007&layout=compact&theme=tokyonight)
 
 ---
