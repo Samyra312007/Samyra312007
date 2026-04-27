@@ -3,7 +3,7 @@
 🎓 I am Sahil, a BTech 2nd year CSE student at IIIT Kurnool (IIITK).  
 💡 Passionate about building projects that solve real-world problems.  
 🚀 Always exploring new tools, frameworks, and challenges in tech.  
-🤖 Enthusiast in full-stack development, web automation, web3, appdev and open source.  
+🤖 Enthusiast in full-stack development, web automation, web3 and open source.  
 🧠 Strong in problem-solving, communication, and collaboration.
 
 ---
@@ -54,11 +54,5 @@
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyra312007&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samyra312007&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
