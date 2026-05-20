@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Kumar 👋
 
-🎓 I am Sahil, a BTech 2nd year CSE student at IIIT Kurnool (IIITK).  
+🎓 I am Sahil, a BTech 3rd year CSE student at IIIT Kurnool (IIITK).  
 💡 Passionate about building projects that solve real-world problems.  
 🚀 Always exploring new tools, frameworks, and challenges in tech.  
 🤖 Enthusiast in full-stack development, web automation, web3 and open source.  
