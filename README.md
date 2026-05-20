@@ -1,4 +1,4 @@
-[![](https://komarev.com/ghpvc/?username=Samyra312007&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=Samyra312007)
 
 
 # 💫 About Me:
@@ -17,6 +17,3 @@ Hi there, I'm Sahil Kumar 👋<br><br>🎓 I am Sahil, a BTech 3rd year CSE stud
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Samyra312007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samyra312007&limit=5&theme=dark&combine_all_yearly_contributions=true)
